@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.exe
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.dll
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\bin\Debug\netcoreapp3.1\WordMechanic.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.dll
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\WordMechanic\obj\Debug\netcoreapp3.1\WordMechanic.genruntimeconfig.cache
