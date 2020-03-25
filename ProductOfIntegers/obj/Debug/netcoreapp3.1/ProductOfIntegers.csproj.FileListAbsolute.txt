@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.exe
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.dll
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\bin\Debug\netcoreapp3.1\ProductOfIntegers.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.dll
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\ProductOfIntegers\obj\Debug\netcoreapp3.1\ProductOfIntegers.genruntimeconfig.cache

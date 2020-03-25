@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.exe
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.dll
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\bin\Debug\netcoreapp3.1\LastMessageFromTitanic.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.dll
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\LastMessageFromTitanic\obj\Debug\netcoreapp3.1\LastMessageFromTitanic.genruntimeconfig.cache

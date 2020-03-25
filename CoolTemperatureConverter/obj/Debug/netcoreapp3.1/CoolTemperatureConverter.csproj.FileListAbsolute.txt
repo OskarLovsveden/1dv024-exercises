@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.exe
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.dll
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\bin\Debug\netcoreapp3.1\CoolTemperatureConverter.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.dll
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\cool-temperature-converter\CoolTemperatureConverter\obj\Debug\netcoreapp3.1\CoolTemperatureConverter.genruntimeconfig.cache

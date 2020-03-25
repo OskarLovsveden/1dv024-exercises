@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.exe
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.dll
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\bin\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.dll
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\FundamentalOneDimentionalArray\obj\Debug\netcoreapp3.1\FundamentalOneDimentionalArray.genruntimeconfig.cache

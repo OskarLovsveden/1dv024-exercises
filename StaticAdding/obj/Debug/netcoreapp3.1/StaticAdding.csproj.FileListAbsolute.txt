@@ -1,0 +1,13 @@
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.exe
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.deps.json
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.runtimeconfig.json
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.runtimeconfig.dev.json
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.dll
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\bin\Debug\netcoreapp3.1\StaticAdding.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.csprojAssemblyReference.cache
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.csproj.CoreCompileInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.AssemblyInfoInputs.cache
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.AssemblyInfo.cs
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.dll
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.pdb
+C:\Users\OskarLovsveden\1dv024\exercises\StaticAdding\obj\Debug\netcoreapp3.1\StaticAdding.genruntimeconfig.cache
