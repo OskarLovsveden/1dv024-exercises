@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\OskarLovsveden\\.nuget\\packages\\": {}
+    "C:\\Users\\Oskar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OskarLovsveden\\1dv024\\exercises\\WordMechanic\\WordMechanic.csproj",
+      "projectUniqueName": "C:\\Users\\Oskar\\Desktop\\www\\school\\1dv024\\exercises\\WordMechanic\\WordMechanic.csproj",
       "projectName": "WordMechanic",
-      "projectPath": "C:\\Users\\OskarLovsveden\\1dv024\\exercises\\WordMechanic\\WordMechanic.csproj",
-      "packagesPath": "C:\\Users\\OskarLovsveden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OskarLovsveden\\1dv024\\exercises\\WordMechanic\\obj\\",
+      "projectPath": "C:\\Users\\Oskar\\Desktop\\www\\school\\1dv024\\exercises\\WordMechanic\\WordMechanic.csproj",
+      "packagesPath": "C:\\Users\\Oskar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oskar\\Desktop\\www\\school\\1dv024\\exercises\\WordMechanic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\OskarLovsveden\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oskar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
