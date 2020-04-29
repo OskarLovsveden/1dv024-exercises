@@ -74,7 +74,7 @@ namespace PersonalCheckDigit
             }
             finally
             {
-                Console.WriteLine($"ToString (short): {pid.ToString("d")}");
+                Console.WriteLine($"ToString (short): {pid.ToString("y")}");
                 Console.WriteLine($"ToString:         {pid}");
                 Console.WriteLine();
             }
